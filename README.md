@@ -34,9 +34,6 @@ usage: sortit.py [source_directory] [destination directory]
 
 ```
 
-## License
-MIT © [BhargavSatya] (https://github.com/BhargavSatya)
-
 ## Contributions
 - ⭐️ this repository if this script helped you.
 - Contributions of any kind are welcome!
