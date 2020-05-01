@@ -9,7 +9,7 @@ file in destination Directory corresponding to the file type.
 You may edit or add new file types and extentions in [config.yaml](./config.yaml)
 ## Features
 - [x] Sorts files in a directory and create symbolic links to original file in a sorted folder.
-- [] Create a Handler which runs in background and behave as target directory is modified.
+- [ ] Create a Handler which runs in background and behave as target directory is modified.
 
 
 ## Installation
@@ -35,7 +35,7 @@ usage: sortit.py [source_directory] [destination directory]
 ```
 
 ## License
-MIT © [Bhargav Satya] (https://github.com/BhargavSatya)
+MIT © [BhargavSatya] (https://github.com/BhargavSatya)
 
 ## Contributions
 - ⭐️ this repository if this script helped you.
