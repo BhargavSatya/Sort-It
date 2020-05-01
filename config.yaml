@@ -1,0 +1,95 @@
+audios:
+  - mp3
+  - aac
+  - wav
+  - flac
+  - raw
+  - mid 
+  - m4a
+  - ogg
+  - amr
+videos:
+  - mp4
+  - avi
+  - wmv
+  - mkv
+  - m4v
+  - webm
+  - mov
+  - mpg
+  - flv
+  - 3gp
+images:
+  - gif
+  - png
+  - jpg
+  - jpeg
+  - tif
+  - bmp
+  - psd
+  - ico
+archives:
+  - tar
+  - rar
+  - zip
+  - 7z
+  - gz
+  - iso
+  - deb
+  - rpm
+  - pkg
+  - dmg
+
+wireshark:
+  - pcap
+  - pcapng
+  - cap
+  - dmp
+applications:
+  - apk
+  - bin
+  - exe
+  - bat
+  - jar
+  - msi
+  - py
+  - c
+  - cpp
+  - go
+  - java
+  - class
+  - pl
+  - sh
+  - vb
+document:
+  - pdf
+  - txt
+  - rtf
+  - tex
+  - ppt
+  - pptx
+  - doc
+  - docx
+  - xls
+  - xlsx
+web:
+  - php
+  - js
+  - css
+  - html
+  - rss
+  - xhtml
+  - aspx
+  - asp
+data:
+  - xml
+  - yaml
+  - json
+  - proto
+  - csv
+  - db
+  - dat
+misc:
+  - misc
+
+
