@@ -11,6 +11,7 @@ You may edit or add new file types and extentions in [config.yaml](./config.yaml
 - [x] Sorts files in a directory and create symbolic links to original file in a sorted folder.
 - [ ] Create a Handler which runs in background and behave as target directory is modified.
 
+![gif](./output.gif)
 
 ## Installation
 ```
